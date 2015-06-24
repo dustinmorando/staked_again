@@ -6,8 +6,6 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
-  this.route('dashboard');
-  this.route('postTourny');
 });
 
 export default Router;
